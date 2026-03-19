@@ -1,4 +1,4 @@
-package com.izaplay.aula.spring.security;
+package com.izaplay.aula.spring.security.model;
 
 
 import jakarta.persistence.*;

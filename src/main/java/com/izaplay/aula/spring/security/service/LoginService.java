@@ -1,5 +1,10 @@
-package com.izaplay.aula.spring.security;
+package com.izaplay.aula.spring.security.service;
 
+import com.izaplay.aula.spring.security.config.JwtService;
+import com.izaplay.aula.spring.security.dto.Login;
+import com.izaplay.aula.spring.security.dto.Session;
+import com.izaplay.aula.spring.security.model.UserEntity;
+import com.izaplay.aula.spring.security.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

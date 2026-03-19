@@ -1,4 +1,4 @@
-package com.izaplay.aula.spring.security;
+package com.izaplay.aula.spring.security.dto;
 
 import lombok.Data;
 

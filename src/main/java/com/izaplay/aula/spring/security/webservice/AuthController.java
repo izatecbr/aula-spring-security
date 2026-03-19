@@ -1,5 +1,8 @@
-package com.izaplay.aula.spring.security;
+package com.izaplay.aula.spring.security.webservice;
 
+import com.izaplay.aula.spring.security.dto.Login;
+import com.izaplay.aula.spring.security.dto.Session;
+import com.izaplay.aula.spring.security.service.LoginService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

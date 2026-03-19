@@ -1,6 +1,7 @@
-package com.izaplay.aula.spring.security;
+package com.izaplay.aula.spring.security.repository;
 
 
+import com.izaplay.aula.spring.security.model.UserEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

@@ -1,5 +1,6 @@
-package com.izaplay.aula.spring.security;
+package com.izaplay.aula.spring.security.config;
 
+import com.izaplay.aula.spring.security.model.UserEntity;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;

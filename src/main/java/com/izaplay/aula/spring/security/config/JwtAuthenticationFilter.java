@@ -1,5 +1,7 @@
-package com.izaplay.aula.spring.security;
+package com.izaplay.aula.spring.security.config;
 
+import com.izaplay.aula.spring.security.model.UserEntity;
+import com.izaplay.aula.spring.security.repository.UserRepository;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

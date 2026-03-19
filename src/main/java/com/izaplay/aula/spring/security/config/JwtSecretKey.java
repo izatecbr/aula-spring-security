@@ -1,4 +1,4 @@
-package com.izaplay.aula.spring.security;
+package com.izaplay.aula.spring.security.config;
 
 import io.jsonwebtoken.SignatureAlgorithm;
 import io.jsonwebtoken.security.Keys;
